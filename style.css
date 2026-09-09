@@ -18,7 +18,7 @@ body {
 
 .card {
   background: white;
-  width: 350px;
+  width: 450px;
   padding: 32px 24px;
   border-radius: 16px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -26,8 +26,8 @@ body {
 }
 
 .card__avatar {
-  width: 100px;
-  height: 100px;
+  width: 160px;
+  height: 200x;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 16px;
